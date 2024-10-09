@@ -4,6 +4,6 @@ the terminal is extremely powerful and it is the gateway to communicating and in
 
 # 2. What is the major difference between Git and GitHub?
 
-the major difference is that Git is a version control language and GitHub is a file hosting repository system. without git there would be no github. it is the same relationship as javascript has to vscode. one is a language and the other is a tool to make it more user friendly and smoother.
+the major difference is that Git is a version control system and GitHub is a file hosting website that hosts Gits. Without git there would be no github. it is the same relationship as javascript has to vscode. one is a language and the other is a tool to make it more user friendly and smoother.
 
 # 3. What are the steps to fork a GitHub repository?
